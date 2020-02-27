@@ -7,8 +7,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/install-pep-514.reg",
-                "https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/uninstall-pep-514.reg",
+                "https://raw.githubusercontent.com/idbrii/scoop-bucket-main/py-registry-testing-against-mine/scripts/python/install-pep-514.reg",
+                "https://raw.githubusercontent.com/idbrii/scoop-bucket-main/py-registry-testing-against-mine/scripts/python/uninstall-pep-514.reg",
                 "https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe"
             ],
             "hash": [
